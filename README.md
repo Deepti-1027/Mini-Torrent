@@ -25,14 +25,14 @@ Developed peer to peer multimedia file sharing network using TCP that allows upl
  1. **To Share the file over network :** <br/>
  ```
   share <local_file_path> <filename>.<file_extension>.mtorrent
-  Eg : share /home/darshan/movie.mp4 movie.mp4.mtorrent.
+
   ```
  * It will generate .mtorrent file and send data to tracker that I(clinet/seeder) have this file. Now other client/leecher can download this file using .mtorrent file.
   
  2. **To Download the file :** <br/>
  ```
   get <path_to_.mtorrent_file> <destination_path>
-  Eg : get movie.mp4.mtorrent newmovie.mp4
+ 
   ```
  * It will send request to tracker to know about available seeders and then randomly choose one seeder and make connection with it to get chunk of data. 
   
@@ -45,7 +45,6 @@ Developed peer to peer multimedia file sharing network using TCP that allows upl
 4. **To Stop sharing of file over network :** <br/>
  ```
  remove <filename.mtorrent>
- Eg : remove movie.mp4.mtorrent
  ```
  * It will stop sharing of that file over network by removing .mtorrent file and metadata of that file from tracker.
 
