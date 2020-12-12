@@ -1,0 +1,18 @@
+********new client started *********
+Client socket : 127.0.0.1:8800
+Tracker 1 socket : 127.0.0.1:5000
+Tracker 2 socket : 127.0.0.1:6000
+******Connection stablished successfully with tracker!!!
+read mtorrentfile sent to server & got response : FILE ALREADY SHARED
+Command from cient : share /home/deepti/Documents/LAN_Design_2019201027.pdf lan.pdf.mtorrent
+SHARE command exe in client side
+Mtorrent creater called for filepath : /home/deepti/Documents/LAN_Design_2019201027.pdf
+Mtorrent Succesfully created
+share cmd gets Long Hash : e74a4427aa3f01243e95
+(SHARE cmd)Complex Data need to send to tracker :share#69867bfda3ad88067fa794b92df97aa4b5f89863#127.0.0.1:8800#/home/deepti/Documents/LAN_Design_2019201027.pdf
+client msg message sent to Tracker
+client(127.0.0.1:8800)got reply from tracker ===> FILE ALREADY SHARED
+Command from cient : close
+CLOSE command exe in client side
+client msg message sent to Tracker
+client(127.0.0.1:8800)got reply from tracker ===> CLIENT CLOSED

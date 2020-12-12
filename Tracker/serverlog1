@@ -1,0 +1,72 @@
+******Connection accepted in tracker side*******
+Tracker get Data from Client : share#69867bfda3ad88067fa794b92df97aa4b5f89863#127.0.0.1:8800#lan.pdf
+Tracker executing for SHARE command !!!
+****************seederlist Data**************
+Data for Hash value : 69867bfda3ad88067fa794b92df97aa4b5f89863
+127.0.0.1:8800 -----> /home/deepti/Documents/LAN_Design_2019201027.pdf
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+******Connection accepted in tracker side*******
+Tracker get Data from Client : share#69867bfda3ad88067fa794b92df97aa4b5f89863#127.0.0.1:7600#lan.pdf
+Tracker executing for SHARE command !!!
+****************seederlist Data**************
+Data for Hash value : 69867bfda3ad88067fa794b92df97aa4b5f89863
+127.0.0.1:8800 -----> /home/deepti/Documents/LAN_Design_2019201027.pdf
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : share#69867bfda3ad88067fa794b92df97aa4b5f89863#127.0.0.1:8800#/home/deepti/Documents/LAN_Design_2019201027.pdf
+Tracker executing for SHARE command !!!
+****************seederlist Data**************
+Data for Hash value : 69867bfda3ad88067fa794b92df97aa4b5f89863
+127.0.0.1:8800 -----> /home/deepti/Documents/LAN_Design_2019201027.pdf
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : close#127.0.0.1:8800
+Tracker executing for CLOSE command !!!
+****************seederlist Data**************
+Data for Hash value : 69867bfda3ad88067fa794b92df97aa4b5f89863
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : get#69867bfda3ad88067fa794b92df97aa4b5f89863
+Tracker executing for GET command !!!
+****************seederlist Data**************
+Data for Hash value : 69867bfda3ad88067fa794b92df97aa4b5f89863
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : share#da39a3ee5e6b4b0d3255bfef95601890afd80709#127.0.0.1:7600#lan.pdf
+Tracker executing for SHARE command !!!
+****************seederlist Data**************
+Data for Hash value : 69867bfda3ad88067fa794b92df97aa4b5f89863
+127.0.0.1:7600 -----> lan.pdf
+Data for Hash value : da39a3ee5e6b4b0d3255bfef95601890afd80709
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : close#127.0.0.1:7600
+Tracker executing for CLOSE command !!!
+****************seederlist Data**************
+**********************************************
+Reply message sent from Tracker to client
+******Connection accepted in tracker side*******
+Tracker get Data from Client : share#da39a3ee5e6b4b0d3255bfef95601890afd80709#127.0.0.1:7600#lan.pdf
+Tracker executing for SHARE command !!!
+****************seederlist Data**************
+Data for Hash value : da39a3ee5e6b4b0d3255bfef95601890afd80709
+127.0.0.1:7600 -----> lan.pdf
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : remove#da39a3ee5e6b4b0d3255bfef95601890afd80709#127.0.0.1:7600
+Tracker executing for REMOVE command !!!
+****************seederlist Data**************
+**********************************************
+Reply message sent from Tracker to client
+Tracker get Data from Client : close#127.0.0.1:7600
+Tracker executing for CLOSE command !!!
+****************seederlist Data**************
+**********************************************
+Reply message sent from Tracker to client

@@ -1,0 +1,18 @@
+********new client started *********
+Client socket : 127.0.0.1:7600
+Tracker 1 socket : 127.0.0.1:5000
+Tracker 2 socket : 127.0.0.1:6000
+******Connection stablished successfully with tracker!!!
+read mtorrentfile sent to server & got response : SUCCESSFULLY SHARED
+Command from cient : remove lan.pdf.mtorrent
+REMOVE command exe in client side
+(REMOVE)Complex Data need to send to tracker :remove#da39a3ee5e6b4b0d3255bfef95601890afd80709#127.0.0.1:7600
+client msg message sent to Tracker
+client(127.0.0.1:7600)got reply from tracker ===> FILE SUCCESSFULLY REMOVED
+Command from cient : get lan.pdf.mtorrent lan.pdf
+GET command exe in client side
+Command from cient : show_downloads
+Command from cient : close
+CLOSE command exe in client side
+client msg message sent to Tracker
+client(127.0.0.1:7600)got reply from tracker ===> CLIENT CLOSED
